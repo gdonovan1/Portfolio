@@ -1,0 +1,16 @@
+title: "Grant Donovan"
+logo: "/assets/img/headshot.png"
+description: "Epidemiology | Data analysis | Communicable disease surveillance | Data integration | ETL pipeline design | M&E | Quality assurance | R | SQL | Tableau | Plotly"
+show_downloads: true
+theme: jekyll-theme-minimal
+
+# Optional GitHub and social metadata
+github:
+  is_project_page: false
+  is_user_page: true
+
+social_links:
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/grant-donovan-479784a7"
+  - name: "GitHub"
+    url: "https://github.com/gdonovan1"
